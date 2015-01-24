@@ -1,0 +1,4 @@
+structure(list(hospital = c("MAYO CLINIC HEALTH SYSTEM - NORTHLAND, INC", 
+"PLATEAU MEDICAL CENTER", "NORTH BIG HORN HOSPITAL DISTRICT"), 
+    state = c("WI", "WV", "WY")), .Names = c("hospital", "state"
+), row.names = c("WI", "WV", "WY"), class = "data.frame")
