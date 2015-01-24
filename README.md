@@ -1,8 +1,3 @@
----
-output:
-  html_document:
-    keep_md: yes
----
 
 # R Programming - Assignment 3
 ## Tests scripts
@@ -10,9 +5,9 @@ output:
 To run these test scripts, you will need the [testthat](http://cran.r-project.org/web/packages/testthat/index.html) package installed.
 
 
-These scripts can help you check your implementation of the code of the R Programing assignments.
+These scripts can help you check your implementation of the code of the R Programming assignments.
 
-Home age of the assignement on [Coursera](https://class.coursera.org/rprog-010/assignment/view?assignment_id=7)
+Home age of the assignment on [Coursera](https://class.coursera.org/rprog-010/assignment/view?assignment_id=7)
 
 
 ### Part 2 - best
